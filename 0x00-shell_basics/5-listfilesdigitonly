@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Contents list of the current directory with user and group IDs displayed numerically:"
+ls -lan

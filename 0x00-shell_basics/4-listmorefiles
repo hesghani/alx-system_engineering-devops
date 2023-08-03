@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Contents list of the current directory, including hidden files:"
+ls -la
