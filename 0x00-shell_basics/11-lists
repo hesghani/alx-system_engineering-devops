@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "Contents list of current directory:"
-ls -la
-echo "Contents list of parent directory:"
-ls -la ..
-echo "Contents list of /boot directory:"
-ls -la /boot
+(ls -la; ls -la ..; ls -la /boot)
