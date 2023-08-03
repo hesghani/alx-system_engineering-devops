@@ -1,4 +1,2 @@
 #!/bin/bash
-
-echo "Contents list of the current directory:"
 ls
